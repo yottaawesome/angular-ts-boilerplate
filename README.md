@@ -1,2 +1,3 @@
-# angular-ts-boilerplate
-Quick setup with Angular
+# Angular TS Boilerplate 
+
+Quick setup with Angular. Currently WIP.
